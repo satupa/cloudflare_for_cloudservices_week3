@@ -1,0 +1,5 @@
+name = "cloudflare_for_cloudservices_week3"
+type = "javascript"
+account_id = "b5f699963edb9621c541c79b2d34869a"
+workers_dev = true
+compatibility_flags = ["nodejs_compat"]
